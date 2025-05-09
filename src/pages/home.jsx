@@ -15,7 +15,7 @@ import {
   DialogActions,
   Link,
 } from "@mui/material";
-import Search from "../components/Search";
+import Search from "../components/search";
 import Navbar from "../components/navbar";
 
 const MaterialUISwitch = styled(Switch)(() => ({
