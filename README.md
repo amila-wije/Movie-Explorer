@@ -32,6 +32,9 @@ npm run dev
 
 The app will be available at http://localhost:5173 (or another port if specified).
 
+username = admin
+password = 1234
+
 Dependencies
 
 React: JavaScript library for building user interfaces.
